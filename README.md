@@ -1,4 +1,3 @@
-# two_strike_proficiency_index
 # TSPI Calculator
 
 This Python script allows you to calculate the Two-Strike Proficiency Index (TSPI) for any baseball player and compare it to the average TSPI for Major League Baseball (MLB). The TSPI is a comprehensive statistic for evaluating a player's performance in two-strike counts. It is a measure of a player's plate vision, discipline, and clutch factor.
