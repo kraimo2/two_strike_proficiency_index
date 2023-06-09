@@ -4,11 +4,11 @@ The proposed baseball statistic, Two-Strike Proficiency Index (TSPI), aims to ev
 
 TSPI is calculated based on five equally weighted metrics:
 
-Two-Strike Strikeout Percentage (TSSO%)
-Two-Strike Walk Percentage (TSBB%)
-Two-Strike Batting Average (TSAVG)
-Two-Strike On-base Plus Slugging (TSOPS)
-Two-Strike HR Percentage (TSHR%)
+1. Two-Strike Strikeout Percentage (TSSO%)
+2. Two-Strike Walk Percentage (TSBB%)
+3. Two-Strike Batting Average (TSAVG)
+4. Two-Strike On-base Plus Slugging (TSOPS)
+5. Two-Strike HR Percentage (TSHR%)
 
 The formula for TSPI is as follows:
 
